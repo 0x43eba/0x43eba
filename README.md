@@ -1,4 +1,3 @@
-Hello! I'm a software developer based out of Canada. I speak English, French, a little bit of German, and a lot of programming languages!
 ![Hubble Deep Field](https://raw.githubusercontent.com/OliverAndrews/OliverAndrews/main/home.png)
 
 Project Overviews:
