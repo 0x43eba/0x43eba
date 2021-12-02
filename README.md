@@ -8,3 +8,5 @@ Project Overviews:
 - Obdisian-Iris: My partner needed a way to copy her incomplete to-do tasks between note pages in Obsidian Markdown. All other options were broken, so I created this, and got a few users along the way!
 - Artomatic: An elixer script to automatically set your desktop wallpaper from ArtPip's API endpoint.
 - Web Crawler Framework: A framework for web crawling which abstracts away all the repetitive parts of crawling the web. You plug in your script, run the program and get your data!
+
+Most of my pinned projects are in TypeScript, which is my favorite prototyping language. Some of my other repos are in other languages, including Clojure, C# (I work in this professionally), python and Javascript. I can work in most object oriented, strictly typed languages like C# and Java. I'm also comfortable with functional programming, including the more whacky stuff like monadic functions.
